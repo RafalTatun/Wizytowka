@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480001591 source:c:\users\rafa³\desktop\wizytówka\wizytowka\main.cpp
+	<iostream>
+	"osoba.hpp"
+
+1480001589 c:\users\rafa³\desktop\wizytówka\wizytowka\osoba.hpp
+	<iostream>
+
